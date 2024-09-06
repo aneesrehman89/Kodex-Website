@@ -1,2 +1,2 @@
-# Kodex-Website  | fully responsive
-Kodex-Website | Html | Css | Bootstrap  | fully responsive
+# Kodex-Website  
+Kodex-Website | Html | Css | Bootstrap  | responsive
